@@ -1,0 +1,8 @@
+Adelaide,1768.80
+Brisbane,1992.61
+Canberra,2193.64
+Darwin,1827.00
+Hobart,1731.95
+Melbourne,2294.24
+Perth,1798.29
+Sydney,2621.22
